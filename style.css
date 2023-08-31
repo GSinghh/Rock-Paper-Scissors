@@ -1,0 +1,37 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+.main-title-h1
+{
+    text-align: left;
+    background-color: rgb(255,255,255,0);
+    margin: 15px;
+    font-family: 'Comfortaa', cursive;
+    font-family: 'Source Code Pro', monospace;
+}
+body
+{
+    background-image: url('images/868844.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 100vh;
+}
+.button-container
+{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 50px;
+}
+.btn
+{
+    padding: 5px;
+    width: 150px;
+    height: 50px;
+    font-size: 20px;
+    font-family: 'Comfortaa', cursive;
+    font-family: 'Source Code Pro', monospace;
+}

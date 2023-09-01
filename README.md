@@ -1,2 +1,2 @@
 # Rock-Paper-Scissors
-Command line rock paper scissors game using an html document to host the JS.
+Simple implementation of Rock Paper Scissors vs AI aka the Computer. Added in a simple GUI so input is no longer taken through the console.

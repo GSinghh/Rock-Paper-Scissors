@@ -2,14 +2,15 @@
 {
     margin: 0;
     padding: 0;
+    font-family: 'Comfortaa', cursive;
+    font-family: 'Source Code Pro', monospace;
+    
 }
 .main-title-h1
 {
     text-align: left;
     background-color: rgb(255,255,255,0);
     margin: 15px;
-    font-family: 'Comfortaa', cursive;
-    font-family: 'Source Code Pro', monospace;
 }
 body
 {
@@ -34,4 +35,35 @@ body
     font-size: 20px;
     font-family: 'Comfortaa', cursive;
     font-family: 'Source Code Pro', monospace;
+    border-radius: 4px;
+    margin: 1px;
+}
+.result-h2
+{
+    text-align: center;
+    margin: 5px;
+}
+.result-h2 h2
+{
+    font-family: 'Comfortaa', cursive;
+    font-family: 'Source Code Pro', monospace;
+}
+.user
+{
+    display: inline;
+    font-size: 25px;
+}
+.score-container
+{
+    margin: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 100px;
+}
+.result-container
+{
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
